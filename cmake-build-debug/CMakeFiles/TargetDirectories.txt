@@ -1,0 +1,3 @@
+C:/Users/Mohammed Nasser/CLionProjects/cinemaapp/cmake-build-debug/CMakeFiles/cinemaapp.dir
+C:/Users/Mohammed Nasser/CLionProjects/cinemaapp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mohammed Nasser/CLionProjects/cinemaapp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
